@@ -2,7 +2,7 @@
 
 /**
  * main - Finds and prints the sum of the even-valued terms in the Fibonacci sequence
- *        below 4,000,000, followed by a new line.
+ *        below 4,000,000.
  *
  * Return: Always 0 (Success)
  */
