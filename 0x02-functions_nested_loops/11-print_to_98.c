@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- * print_to_98 - Prints all natural numbers from n to 98, 
- * 		followed by a new line.
+ * print_to_98 - Prints all natural numbers from n to 98,
+ *               followed by a new line.
  * @n: Number to start printing from.
  */
 void print_to_98(int n)
@@ -31,3 +31,4 @@ void print_to_98(int n)
 		}
 	}
 }
+
