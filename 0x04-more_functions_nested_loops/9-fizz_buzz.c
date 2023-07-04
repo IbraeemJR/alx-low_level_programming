@@ -5,7 +5,7 @@
  * main - Prints the numbers from 1 to 100, followed by a new line.
  *        For multiples of three, prints "Fizz" instead of the number.
  *        For multiples of five, prints "Buzz" instead of the number.
- *        For numbers that are multiples of both three and five, prints "FizzBuzz".
+ *        For numbers that are multiples of both 3 and 5, prints "FizzBuzz".
  *
  * Return: Always 0 (Success)
  */
