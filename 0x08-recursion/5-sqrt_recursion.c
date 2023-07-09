@@ -16,7 +16,7 @@ int _sqrt_recursion(int n)
 }
 
 /**
- * actual_sqrt_recursion - Recursively finds the natural square root of a number.
+ * actual_sqrt_recursion - Recursively finds the natural sq. root of a number.
  * @n: The number to calculate the square root of.
  * @i: Iterator.
  *
