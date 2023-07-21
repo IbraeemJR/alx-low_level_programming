@@ -1,1 +1,1 @@
-Solutions to Variadic functions
+Solutions to C - Variadic functions
